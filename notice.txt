@@ -1,0 +1,20 @@
+For our group assignment, we used Libgdx Engine
+
+Finished Requirements
+- We finished almost all requirements.
+
+Unfinished Requirements
+- There are some requirements that we have not finished which are listed below
+  + Load highscores
+  + Multiplayer
+  
+Extension:
++ 3G can automatically turned on if wifi is not available
+
+Notice:
++ we did finish uploading high scores on cloud but we dont have enough time to display it on
+the phone's screen.
++ You can check it through our account:
+	Site: parse.com
+	ID: s3357671@rmit.edu.vn
+	Pass: madassignment2

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Final Poke</string>
+    <string name="title_activity_splash_fragment">SplashFragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_selection_fragment">SelectionFragment</string>
+    <string name="get_started">To get started, log in using Facebook</string>
+    <string name="title_activity_facebook_main">FacebookMain</string>
+    <string name="settings">Settings</string>
+    <string name="app_id">	475463985855362</string>
+    <string name="title_activity_login_activity">LoginActivity</string>
+
+</resources>
